@@ -1,6 +1,6 @@
 # Immunotherapy Adverse-Event Classification
 
-Small ML project to predict severe adverse events from an immunotherapy cohort. Two models are benchmarked: a regularized Logistic Regression baseline and a Random Forest as a non-linear comparator. Work is done in a Jupyter notebook (`src/main.ipynb`), with a minimal script version in `src/main.py`.
+Small ML project to predict severe adverse events from an immunotherapy cohort. Two models are benchmarked: a regularized Logistic Regression baseline and a Random Forest as a non-linear comparator. Work is done in a Jupyter notebook (`src/main.ipynb`).
 
 ## Data
 - Source CSVs in `data/`
