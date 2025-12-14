@@ -1,0 +1,9 @@
+# Environment
+.venv/
+__pycache__/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# System files (Mac)
+.DS_Store
